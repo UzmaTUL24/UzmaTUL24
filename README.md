@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Uzmatul Zannat Bushra.You can just call me Uzma😊I’m a Lab student and I camne from Bangladesh.
+- 👋 Hi, I’m Uzmatul Zannat Bushra.You can just call me Uzma😊I’m a Lab student and I came
+- from Bangladesh.
   
 
 <!---
