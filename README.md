@@ -25,6 +25,5 @@ I’m really passionate about building my coding skills and exploring new teachn
 #📫How to reach me📪
 °Email:uzmatulz@gmail.com
 
-UzmaTUL24/UzmaTUL24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
